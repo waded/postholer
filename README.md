@@ -7,4 +7,4 @@ It supports no navigation other than that within the content of a post, no plugi
 >  Kaylee Frye: That's a post holer. You dig holes. For posts.
 >  Dr. Simon Tam: It's, uh, it's dirty and sharp.
 
-In future revisions I may add a <ui><li><a> post list structure to index.php. But even this may be considered a bit dirty and sharp.
+In future revisions I may add a ul-li-a post list structure to index.php. But even this may be considered a bit dirty and sharp.
