@@ -1,4 +1,4 @@
-This WordPress theme is an experiment in minimalism.
+This WordPress theme is an experiment in minimalism. See [screenshot.png](https://raw.github.com/waded/postholer/master/wp-content/themes/postholer/screenshot.png). No, I am not kidding.
 
 It supports no navigation other than that within the content of a post, no plugins which do not work within the content of the post, and no footers, headers, menus, tag clouds, date trees, category clusters, or anything made in a factory that also process peanuts.
 
@@ -10,5 +10,5 @@ It supports no navigation other than that within the content of a post, no plugi
 
 >  Dr. Simon Tam: It's, uh, it's dirty and sharp.
 
-The theme currently looks like [screenshot.png](https://raw.github.com/waded/postholer/master/wp-content/themes/postholer/screenshot.png)
+
 
