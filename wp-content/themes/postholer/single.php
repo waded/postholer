@@ -1,7 +1,9 @@
 <?php
 get_header();
-while ( have_posts() ) : the_post();
-	# get_template_part( 'content', get_post_format() );
+while ( have_posts() ) : the_post(); ?>
+	<h2><? the_title() ?></h2>
+	<div><? the_content('') ?></div>	
+<? 
 endwhile;
 get_footer();
 ?>

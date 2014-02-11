@@ -1,5 +1,2 @@
-<?php
-get_header();
-_e('404!');
-get_footer();
-?>
+<?php get_header();
+<?php get_footer();?>
