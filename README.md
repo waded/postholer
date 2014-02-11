@@ -8,3 +8,5 @@ It supports no navigation other than that within the content of a post, no plugi
 >  Dr. Simon Tam: It's, uh, it's dirty and sharp.
 
 In future revisions I may add a ul-li-a post list structure to index.php. But even this may be considered a bit dirty and sharp.
+
+![Screenshot](https://raw.github.com/waded/postholer/master/wp-content/themes/postholer/screenshot.png)
