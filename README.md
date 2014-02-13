@@ -1,6 +1,19 @@
 This WordPress theme is an experiment in minimalism. See [screenshot.png](https://raw.github.com/waded/postholer/master/wp-content/themes/postholer/screenshot.png). No, I am not kidding.
 
-It supports no navigation other than that within the content of a post, no plugins which do not work within the content of the post, and no footers, headers, menus, tag clouds, date trees, category clusters, or anything made in a factory that also process peanuts.
+It supports no navigation other than within post content, and only plugins that inject into head or the end of body.
+
+Also no:
+- comments
+- sidebars
+- headers
+- footers
+- menus
+- widgets
+- tag clouds
+- date trees
+- category clusters
+- right-pointing double angle quotation marks right-pointing at every other thing
+- anything made in a factory that processes peanuts
 
 >  [Simon has taken River out to a shop and she keeps touching everything]
 
