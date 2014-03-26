@@ -12,7 +12,7 @@ Tags: minimal
 body
 {
 	background-color: #000;
-	color: #ccc;
+	color: #eee;
 	font-family: Verdana, sans-serif;
 }
 
@@ -22,4 +22,14 @@ h1
 	font: inherit;
 	vertical-align: baseline;
 	text-transform: capitalize;
+}
+
+a:link, a:hover, a:visited
+{
+	color: ##ff452c;
+}
+
+.contentish
+{
+	font-size:80%;
 }
