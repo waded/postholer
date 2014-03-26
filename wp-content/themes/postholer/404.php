@@ -1,3 +1,4 @@
 <?php get_header(); ?>
-Four oh four. Perhaps you want the <a href="/feed/">feed?</a>
+<h1>404</h1>
+<div>Sorry, couldn't find that page.</div>
 <?php get_footer(); ?>

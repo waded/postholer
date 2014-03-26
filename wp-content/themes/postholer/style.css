@@ -1,10 +1,25 @@
 /*
-Theme Name: postholder
-Theme URI: https://github.com/waded/postholer
+Theme Name: postholder-dci
+Theme URI: https://github.com/waded/postholer/tree/dci
 Author: Wade Dorrell
 Author URI: http://waded.org/
-Description: For posts
+Description: For posts. A fork of postholder for Discovery Center of Idaho beacon projects
 License: MIT 
 License URI: http://opensource.org/licenses/MIT
 Tags: minimal
 */
+
+body
+{
+	background-color: #000;
+	color: #ccc;
+	font-family: Verdana, sans-serif;
+}
+
+h1
+{
+	font-size: 130%;
+	font: inherit;
+	vertical-align: baseline;
+	text-transform: capitalize;
+}

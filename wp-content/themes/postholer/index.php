@@ -1,3 +1,6 @@
 <?php get_header(); ?>
-This theme eschews index pages. Perhaps you want the <a href="/feed/">feed?</a>
+<h1>Index</h1>
+<div>This theme currently doesn't have an index page. The mobile device 
+	should use the <a href="/feed/">feed</a> to determine which posts
+	to show</div>
 <?php get_footer(); ?>
