@@ -18,15 +18,15 @@ body
 
 h1
 {
-	font-size: 130%;
+	font-size: 115%;
 	font: inherit;
 	vertical-align: baseline;
-	text-transform: capitalize;
+	text-transform: uppercase;
 }
 
 a:link, a:hover, a:visited
 {
-	color: ##ff452c;
+	color: #ff452c;
 }
 
 .contentish
