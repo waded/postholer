@@ -8,3 +8,9 @@ License: MIT
 License URI: http://opensource.org/licenses/MIT
 Tags: minimal
 */
+
+body {
+	font-family: Georgia;
+	margin: 0;
+	padding: 1em;
+}
