@@ -16,3 +16,8 @@ body {
 	margin: 0;
 	padding: 1em 1.62em 3.24em 1.62em;
 }
+
+/* A bad idea, but maintains the original appearance of the theme. The web's dated, if not authored. */
+.byline {
+	display: none;
+}
