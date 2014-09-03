@@ -1,4 +1,4 @@
-This WordPress theme is an experiment in minimalism. See [screenshot.png](https://raw.github.com/waded/postholer/master/wp-content/themes/postholer/screenshot.png). No, I am not kidding.
+This WordPress theme is an experiment in minimalism. See [screenshot.png](https://raw.github.com/waded/postholer/master/screenshot.png). No, I am not kidding.
 
 It supports minimal navigation, and no:
 - comments
