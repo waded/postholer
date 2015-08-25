@@ -1,4 +1,6 @@
-This WordPress theme is an overreaction to 'minimalist' themes you find out there costing $50 or more. It's so minimal it approaches actual nothingness. See [screenshot.png](https://raw.github.com/waded/postholer/master/screenshot.png).
+This WordPress theme is an overreaction to 'minimalist' themes you find out there which are so full of features, options,  maximalitude, and guillemets they cost upward of $50. Postholer is so minimal it approaches nothingness, and nothing should be free.
+
+See [screenshot.png](https://raw.github.com/waded/postholer/master/screenshot.png).
 
 It supports minimal navigation, and no:
 
@@ -11,7 +13,6 @@ It supports minimal navigation, and no:
 - date trees
 - category clusters
 - especially no guillemets
-- did we mention no guillemets?
 - comments (we are reconsidering that)
 
 ```
