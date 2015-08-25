@@ -1,15 +1,18 @@
-This WordPress theme is an experiment in minimalism. See [screenshot.png](https://raw.github.com/waded/postholer/master/screenshot.png). No, I am not kidding.
+This WordPress theme is an overreaction to 'minimalist' themes you find out there costing $50 or more. It's so minimal it approaches actual nothingness. See [screenshot.png](https://raw.github.com/waded/postholer/master/screenshot.png).
 
 It supports minimal navigation, and no:
-- comments
+
 - sidebars
 - menus
 - headers, footers
+- guillemets
 - widgets, wadgets
 - tag clouds
 - date trees
-- categorical clusters
+- category clusters
 - especially no guillemets
+- did we mention no guillemets?
+- comments (we are reconsidering that)
 
 ```
 [Simon has taken River out to a shop and she keeps touching everything]
