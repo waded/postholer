@@ -1,4 +1,4 @@
-This WordPress theme is an overreaction to 'minimalist' themes you find out there which are so full of features, options,  maximalitude, and guillemets they cost upward of $50. Postholer is so minimal it approaches nothingness, and nothing should be free.
+This WordPress theme is an overreaction to 'minimalist' themes you find out there which are so full of features, options, and guillemets, that they cost upward of $50. Postholer is so minimal it approaches nothingness, and nothing should be free.
 
 See [screenshot.png](https://raw.github.com/waded/postholer/master/screenshot.png).
 
