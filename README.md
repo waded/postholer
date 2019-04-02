@@ -13,7 +13,7 @@ It supports minimal navigation, and no:
 - date trees
 - category clusters
 - especially no guillemets
-- comments (we are reconsidering that)
+- comments
 
 ```
 [Simon has taken River out to a shop and she keeps touching everything]
